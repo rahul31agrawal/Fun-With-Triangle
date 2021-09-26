@@ -1,0 +1,18 @@
+.navigation {
+    background-color: var(--primary-color);
+
+    color: white;
+    padding: 1rem;
+    border-bottom-left-radius: 1rem;
+}
+
+.nav-links {
+
+    display: inline;
+    padding: 0rem 0.5rem;
+
+
+
+}
+
+
