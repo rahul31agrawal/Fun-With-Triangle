@@ -10,9 +10,19 @@
 
     display: inline;
     padding: 0rem 0.5rem;
+}
 
+body{
+    background-color: #ff9933;
+}
 
+.nav-links {
+    color: black;
 
+}
+
+input{
+    align-items: center;
 }
 
 
